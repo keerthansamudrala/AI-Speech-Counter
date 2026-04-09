@@ -28,6 +28,7 @@ ENV/
 
 # Project specific
 recordings/
+pinboard/
 
 # OS
 .DS_Store
