@@ -2,7 +2,7 @@
 <p>The AI Speech Counter is a diagnostic tool designed to transform raw vocal input into a structured Speech Performance Report. By recording speech in real-time and processing it through an intelligent backend, the application provides objective coaching data to help users refine their delivery for interviews, seminars, and public speaking.</p>
 <br>
 
-<h2>⚙️ System Workflow</h2>
+<h1>⚙️ System Workflow</h1>
 <p>The application follows a modular "Record-Process-Display" asynchronous architecture:</p>
 <ul>
   <li><strong>1. Capture:</strong> The system initializes a MediaRecorder instance to record high-quality audio (44.1kHz) while the user selects a specific scenario (e.g., Interview, Seminar).</li>
@@ -11,7 +11,7 @@
 </ul>
 <br>
 
-<h2>🔑 Key Performance Outcomes</h2>
+<h1>🔑 Key Performance Outcomes</h1>
 <table style="width:100%; text-align:left; border-collapse: collapse; margin-bottom: 20px;">
   <thead>
     <tr style="background-color: #1f1f1f; color: white;">
@@ -31,7 +31,7 @@
 </table>
 <br>
 
-<h2>🚀 Getting Started</h2>
+<h1>🚀 Getting Started</h1>
 <h3>Prerequisites</h3>
 <ul>
   <li>Python 3.13+</li>
@@ -56,8 +56,9 @@ uvicorn main:app --reload</code></pre>
 <code>cd frontend
 npm install
 npm run dev</code></pre>
+<br>
 
-<h2>🛠️ Technical Schema</h2>
+<h1>🛠️ Technical Schema</h1>
 <p>Structured JSON response used to populate the dashboard:</p>
 <pre style="background-color: #1a1a1a; color: #dcdcdc; padding: 15px; border-radius: 5px; overflow-x: auto;">
 <code>{
