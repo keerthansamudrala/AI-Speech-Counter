@@ -42,8 +42,8 @@
 <h3>1. Backend Setup (FastAPI)</h3>
 <pre style="background-color: #1a1a1a; color: #dcdcdc; padding: 20px; border-radius: 8px; overflow-x: auto; line-height: 1.8; font-family: 'Courier New', Courier, monospace;">
 <code># Create and activate virtual environment
-python -m venv Kenv
-source Kenv/bin/activate    # Windows: Kenv\Scripts\activate          
+python -m venv Myenv
+source Myenv/bin/activate    # Windows: Myenv\Scripts\activate          
 <br>
 # Install dependencies and run
 pip install -r requirements.txt
