@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/481f7822-9fa9-4a45-9a92-e195f0e6ebcd" alt="AI Speech Counter Dashboard" width="600">
+  <img src="https://github.com/user-attachments/assets/4dc17c62-4ba9-499d-9092-a186eac33821" alt="AI Speech Counter Dashboard" width="600">
+  <br>
+  <em>Figure 1: Real-time Speech input interface.</em>
 </p>
 
 
@@ -7,10 +9,13 @@
 <p>The AI Speech Counter is a diagnostic tool designed to transform raw vocal input into a structured Speech Performance Report. By recording speech in real-time and processing it through an intelligent backend, the application provides objective coaching data to help users refine their delivery for interviews, seminars, and public speaking.</p>
 <br>
 
+
+
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/282915c5-0925-4009-b478-7583f24060a7" alt="Recording Interface" width="600">
+  <img src="https://github.com/user-attachments/assets/111b42fc-6e01-4a0b-8f54-0e4b33eeaa52" alt="Recording Interface" width="600">
   <br>
-  <em>Figure 1: Real-time vocal processing interface.</em>
+  <em>Figure 2: Real-time vocal processing interface.</em>
 </p>
 
 <h1>⚙️ System Workflow</h1>
